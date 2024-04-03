@@ -221,3 +221,12 @@
 ### 3.5. 깃을 깃허브로 push 후 퇴근 한다. (매일 퇴근전, 필요시)
 
 - `git push -u origin main`
+
+### 3.6. 브랜치(나뭇가지 - 코드분기) 나누기
+
+- `git branch 이름`
+- `git branch 01-css-basic` 엔터
+
+### 3.7. 브랜치 목록보기
+
+- `git branch` 엔터
